@@ -1,0 +1,1 @@
+I fixed a bug in the AppImage that prevented the launcher from being able to connect to the internet and therefore unable to download the game instance or any mods. Source code is available and free to copy and merge for the current maintainer(s) of PollyMC to integrate.
