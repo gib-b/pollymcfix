@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Game;ActionGame;AdventureGame;Simulation;PackageManager;
+Comment[en_US]=Discover, manage, and play Minecraft instances
+Comment=Discover, manage, and play Minecraft instances
+Exec=pollymc %U
+GenericName[en_US]=
+GenericName=
+Icon=/usr/share/icons/hicolor/scalable/apps/org.pollymc.PollyMC
+Keywords=game;minecraft;mc;
+MimeType=application/zip;application/x-modrinth-modpack+zip;
+Name[en_US]=PollyMC-Continued
+Name=PollyMC-Continued
+Path=
+StartupNotify=true
+StartupWMClass=PollyMC
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=

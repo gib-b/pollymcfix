@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>org.pollymc.PollyMC</id>
+  <name>PollyMC</name>
+  <summary>Custom Minecraft Launcher to easily manage multiple Minecraft installations at once</summary>
+  <developer id="org.prismlauncher">
+    <name>PollyMC Contributors</name>
+  </developer>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <description>
+    <p>PollyMC is a custom launcher for Minecraft that focuses on freedom, modpack automation, and simplicity.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Easily install mod frameworks, such as Fabric, NeoForge and Quilt</li>
+      <li>Easily install and update mods and packs from Modrinth, Curseforge and more</li>
+      <li>Control your Java settings, and enable Mangohud or Gamemode with a toggle</li>
+      <li>Manage worlds and resource packs from the launcher</li>
+      <li>See console, logs and other details easily through a dashboard</li>
+      <li>Kill Minecraft in case of a crash/freeze</li>
+      <li>Isolate Minecraft instances to keep everything clean</li>
+      <li>Customize the launcher with themes, GIF-cats, and more</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>The main PollyMC window</caption>
+      <image type="source" width="1030" height="764">https://prismlauncher.org/img/screenshots/LauncherDark.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Modpack installation</caption>
+      <image type="source" width="1126" height="850">https://prismlauncher.org/img/screenshots/ModpackInstallDark.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Modpack updating</caption>
+      <image type="source" width="930" height="677">https://prismlauncher.org/img/screenshots/ModpackUpdateDark.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Mod installation</caption>
+      <image type="source" width="848" height="558">https://prismlauncher.org/img/screenshots/ModInstallDark.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Mod updating</caption>
+      <image type="source" width="860" height="748">https://prismlauncher.org/img/screenshots/ModUpdateDark.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Instance management</caption>
+      <image type="source" width="960" height="659">https://prismlauncher.org/img/screenshots/PropertiesDark.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Cat :3</caption>
+      <image type="source" width="1042" height="754">https://prismlauncher.org/img/screenshots/LauncherCatDark.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Customization</caption>
+      <image type="source" width="1040" height="752">https://prismlauncher.org/img/screenshots/CustomizeDark.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="9.0.3s" date="2026-05-08"></release>
+  </releases>
+  <url type="homepage">https://pollymc.vercel.app/</url>
+  <url type="bugtracker">https://github.com/corecommit/PollyMC-Continued/issues</url>
+  <url type="faq">https://pollymc.vercel.app/</url>
+  <url type="help">https://pollymc.vercel.app/</url>
+  <url type="donation">https://pollymc.vercel.app/</url>
+  <url type="translate">https://pollymc.vercel.app/</url>
+  <url type="contact">https://pollymc.vercel.app/</url>
+  <url type="vcs-browser">https://github.com/corecommit/PollyMC-Continued</url>
+  <url type="contribute">https://github.com/corecommit/PollyMC-Continued/blob/develop/CONTRIBUTING.md</url>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-fantasy">moderate</content_attribute>
+    <content_attribute id="social-chat">intense</content_attribute>
+  </content_rating>
+  <launchable type="desktop-id">org.pollymc.PollyMC.desktop</launchable>
+</component>
